@@ -21,7 +21,7 @@
 title:            'Pierce Zine Project'
 description:      'Minimal Exhibitions with Jekyll'
 url:              'https://jloan.github.io/zines/'
-baseurl:          '/zines/'
+baseurl:          '/zines'
 copyright:        'Example copyright org, 2019'
 logo:             '/assets/logo.png'
 
