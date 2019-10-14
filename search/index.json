@@ -1,0 +1,45 @@
+---
+layout: none
+---
+[
+  {
+    "pid": "zine2",
+    "label": "East Village Inky No. 52",
+    "location": "Brooklyn (NY)",
+    "_date": "April 2013",
+    "collection": "zines",
+    "thumbnail": "/img/derivatives/iiif/images/zine2_sample2/full/250,/0/default.jpg",
+    "permalink": "/zines/zine2",
+    "lunr_id": 0
+  },
+  {
+    "pid": "zine3",
+    "label": "Ker-Bloom! 139",
+    "location": "Berkeley (CA)",
+    "_date": "July-August 2010",
+    "collection": "zines",
+    "thumbnail": "/img/derivatives/iiif/images/zine3_sample3/full/250,/0/default.jpg",
+    "permalink": "/zines/zine3",
+    "lunr_id": 1
+  },
+  {
+    "pid": "zine4",
+    "label": "BFF:Big Fat Femme 1",
+    "location": "United States",
+    "_date": "unknown",
+    "collection": "zines",
+    "thumbnail": "/img/derivatives/iiif/images/zine4_sample4/full/250,/0/default.jpg",
+    "permalink": "/zines/zine4",
+    "lunr_id": 2
+  },
+  {
+    "pid": "zine1",
+    "label": "Lunchtime for the Wild Youth: Issue 2 - The Gigs",
+    "location": "United Kingdom",
+    "_date": "fanzine",
+    "collection": "zines",
+    "thumbnail": "/img/derivatives/iiif/images/zine1_sample1/full/250,/0/default.jpg",
+    "permalink": "/zines/zine1",
+    "lunr_id": 3
+  }
+]

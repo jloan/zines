@@ -1,0 +1,31 @@
+---
+layout: none
+---
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/collection/zines.json",
+  "@type": "sc:Collection",
+  "label": "zines",
+  "manifests": [
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/zine2/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "zine2"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/zine3/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "zine3"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/zine4/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "zine4"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/zine1/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "zine1"
+    }
+  ]
+}
