@@ -2,8 +2,8 @@
 layout: exhibit
 title: '[add zine title here]'
 author: [add zine author]
-publish_date: [date you submit/publish this exhibit]
-permalink: /exhibits/[add shortest version of zine title with no spaces]
+publish_date: 
+permalink: /exhibits/add_shortest _version_of_zine_title_with_no_spaces
 ---
 
 ## Subject(s): 
