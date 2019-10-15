@@ -1,0 +1,49 @@
+---
+layout: exhibit
+title: '[add zine title here]'
+author: [add zine author]
+publish_date: [date you submit/publish this exhibit]
+permalink: /exhibits/[add shortest version of zine title with no spaces]
+---
+
+## Subject(s): 
+
+
+identify subject(s) of zine here. For an overview of common subject terms for zines see [this post ](https://zinelibraries.info/running-a-zine-library/categories/)from zinelibraries.info. Feel free to come up with your own. [^1]
+
+## Genre(s):
+
+identify the genre of zine. for an overview of zine genres see the Barnard Zine Library's [definitions](https://zines.barnard.edu/zine-genres).
+
+## Content Description:
+
+write a description of zine's contents here. no set word count. think of this as a sort of [abstract](https://writingcenter.unc.edu/tips-and-tools/abstracts/). detailed enough to give a complete picture of zine and concise enough to be useful for quick reference.
+
+## Date:
+
+date of zine's publication
+
+## Physical Description:
+
+what the zine looks like...size, fold style, and other descriptors like "hand sewn binding" or "red cover."
+
+## Language(s):
+
+language(s) zine was published in.
+
+## See Also:
+
+has the zine maker made other zines? are their zines available in other collections or libraries?do they have a website or social media prescence? Aare there related zines in the collection?
+
+## Place of Publication:
+
+geographic location. could be a city, state, or country or some combination.
+
+## Freedoms and Restrictions
+
+copyright with zines is tricky. identify if zine indicates any freedoms and/or restrcitions. May include things like copyleft, anti-copyright, freely duplicable and any variation of a [Creative Commons liscense](https://creativecommons.org/share-your-work/).
+
+### Notes
+
+[^1]: The above metadata categories are based on [xZinecorex](http://zinelibraries.info/2012/07/28/xzinecorex-union-catalog-update/), a zine cataloging initiative by Zine Librarians Interest Group.
+
